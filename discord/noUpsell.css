@@ -1,0 +1,72 @@
+/* "Try out Nitro" in profile settings */
+.tryItOutSection_d658ca {
+    display: none;
+}
+
+/* Shop ad in profile settings */
+.container__686c4 {
+    display: none;
+}
+
+/* Seperators between regular and gradients in appearance */
+.header__35d14 {
+    display: none;
+}
+
+/* Nitro page on the home page */
+a[href="/store"] {
+    display: none;
+}
+
+
+/* Server boosting display */
+.container_bc43c1 {
+    display: none;
+}
+
+/* Boosting in server overview */
+.flexChild__3da10:has(> .shinyButton_d5e126) {
+    display: none;
+}
+
+.upsell__014fe {
+    display: none;
+}
+
+/* Sticker Banner */
+.upsellContainer_df4d69 {
+    display: none;
+}
+
+/* Sticker level */
+.emptyTierWrapper_e61b38 .lookFilled__950dd {
+    display: none;
+}
+
+/* Boost icon in member list */
+.premiumIcon__58b74 {
+    display: none;
+}
+
+/* Nitro badge */
+.anchor_c8ddc0:has(> img[src="https://cdn.discordapp.com/badge-icons/2ba85e8026a8614b640c2837bcdfe21b.png"]) {
+    display: none;
+}
+
+/* emoji page */
+.categorySectionNitroLocked__5b287 {
+    background-color: transparent;
+}
+
+.nitroTopDividerContainer_b829ac {
+    display: none;
+}
+
+.upsellContainer__15a05 {
+    display: none;
+}
+
+/* Server limit button */
+button:has(> .premiumSubscribeButton__61b05) {
+    display: none;
+}
