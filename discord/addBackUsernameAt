@@ -1,0 +1,7 @@
+.userTagUsernameBase__2bd24::before {
+    content: "@";
+}
+
+.discriminator__9d9f2::before {
+    content: "@";
+}
